@@ -1,10 +1,10 @@
-# 🤖 AI Text Detector
+#  AI Text Detector
 
 A web application built with **Flask** and **Hugging Face Transformers** that analyzes text and predicts whether it is **AI-generated** or **Human-written**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Detects AI-generated vs Human-written text
 - Confidence scores for each prediction
@@ -14,7 +14,7 @@ A web application built with **Flask** and **Hugging Face Transformers** that an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Python
@@ -66,7 +66,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧠 Model Used
+##  Model Used
 
 This project uses the Hugging Face **Zero-Shot Classification** pipeline with:
 
